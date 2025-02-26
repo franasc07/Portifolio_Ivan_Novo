@@ -40,7 +40,7 @@ body {
 }
 
 .cabecalho__menu__link:hover {
-    color: var(--cor-hover);
+    color: #A89EFF;
 }
 
 .apresentacao{
